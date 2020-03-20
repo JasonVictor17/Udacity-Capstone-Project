@@ -15,3 +15,5 @@ tqdm
 
 All codes are in the notebook Pneumonia_detect.ipynb, the dataset is available at Kaggle:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+Udacity_final_project.pdf file summarizes all the steps and the rsults of this project.
